@@ -1,11 +1,11 @@
 # REST API REDIS - NODE.JS
-aprendiendo a usar Redis en el backend con Node.js 
-para responder mucho más rápido las peticiones que recibe para 
-guardar en memoria cache las consultas de base de datos.
+learning how to use Redis on the backend with Node.js
+to respond much faster to requests you receive for
+cache database queries..
 
-### Usando API de Ricky and Morty
+### Using Ricky and Morty API
 ```
 https://rickandmortyapi.com/api
 ```
 
-Recuerde que debe ejecturar ````npm install``` para recontruir los modulos de Node.
+Remember to run ``` npm install``` to rebuild Node.
